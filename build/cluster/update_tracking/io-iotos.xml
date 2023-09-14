@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="io.iotos">
+    <module_version install_time="1616058262888" last="true" origin="installer" specification_version="1.0">
+        <file crc="1632973931" name="config/Modules/io-iotos.xml"/>
+        <file crc="801044214" name="modules/io-iotos.jar"/>
+    </module_version>
+</module>
